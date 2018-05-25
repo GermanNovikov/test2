@@ -1,1 +1,1 @@
-Firmware for the ESP32 MCU
+Firmware for the ESP32 SoC
